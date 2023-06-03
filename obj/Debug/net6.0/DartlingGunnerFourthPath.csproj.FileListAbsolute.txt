@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\bin\Debug\net6.0\DartlingGunnerFourthPath.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\bin\Debug\net6.0\DartlingGunnerFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\DartlingGunnerFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\refint\DartlingGunnerFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\DartlingGunnerFourthPath\obj\Debug\net6.0\ref\DartlingGunnerFourthPath.dll
